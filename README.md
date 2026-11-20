@@ -3,6 +3,8 @@
 一个软乎乎的 3D 小宇宙，住着 12 颗会眨眼、会跳、会闹小脾气的星座小星球 ⭐
 没有菜单也没有任务，点点它、拖拖它，它们就会跟你玩 🫶
 
+<img width="1920" height="989" alt="image" src="https://github.com/user-attachments/assets/0c0ad854-1214-44ae-906a-200ccec2ffad" />
+
 ---
 
 ## 🚀 打开它
